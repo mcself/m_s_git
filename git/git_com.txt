@@ -28,3 +28,12 @@ git log
 未来版本
 git reflog
 
+创建ssh key
+ssh-keygen -t rsa -C "youremail"
+
+关联库
+git remote add origin git@github.com:username/xxxxxx.git
+
+
+推送本地库
+git push -u origin master
