@@ -36,4 +36,8 @@ git remote add origin git@github.com:username/xxxxxx.git
 
 
 推送本地库
-git push -u origin master
+git push -u origin master 首次
+git push origin master 二次
+	
+
+-------------学习进度 2019年11月25日  到远程仓库结束-----
