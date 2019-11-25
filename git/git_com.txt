@@ -1,0 +1,30 @@
+创建目录：
+mkdir <name>
+cd 《name》
+pwd
+
+初始化
+git init
+
+添加文件到版本库
+git add "文件名"
+
+
+提交到库
+git commit -m “说明”
+
+显示状态
+git status
+
+显示修改内容
+git diff
+
+版本回退
+git reset --hard commi_id
+
+提交历史
+git log
+
+未来版本
+git reflog
+
